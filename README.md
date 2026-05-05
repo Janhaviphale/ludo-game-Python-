@@ -17,7 +17,6 @@ Frontend: (HTML, CSS, JavaScript) or (Java Swing / Android UI)
 Backend (if any): Python / Java
 Game Logic: Custom implementation
 
-(Edit this section based on your actual tech stack)
 
 📂 Project Structure
 Ludo-Game/
@@ -29,6 +28,8 @@ Ludo-Game/
 │   ├── sounds
 │── README.md
 │── requirements.txt / pom.xml (if applicable)
+
+
 ⚙️ Installation & Setup
 1. Clone the repository
 git clone https://github.com/Janhaviphale/ludo-game-Python-.git
@@ -55,6 +56,7 @@ Rolling a 6 gives an extra turn.
 Tokens move in a fixed path.
 Safe zones prevent token capture.
 Exact number is required to reach home.
+
 📸 Screenshots
 
 (Add screenshots of your game UI here)
