@@ -59,7 +59,7 @@ Exact number is required to reach home.
 
 📸 Screenshots
 
-(Add screenshots of your game UI here)
+
 
 🔮 Future Enhancements
 Online multiplayer mode 🌐
