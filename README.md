@@ -31,7 +31,7 @@ Ludo-Game/
 │── requirements.txt / pom.xml (if applicable)
 ⚙️ Installation & Setup
 1. Clone the repository
-git clone https://github.com/your-username/ludo-game.git
+git clone https://github.com/Janhaviphale/ludo-game-Python-.git
 2. Navigate to the project folder
 cd ludo-game
 3. Run the project
