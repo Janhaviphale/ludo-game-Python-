@@ -59,6 +59,7 @@ Exact number is required to reach home.
 
 📸 Screenshots
 
+<img width="1905" height="990" alt="image" src="https://github.com/user-attachments/assets/dc23dfb9-d49a-43b9-9978-192b575e2ac7" />
 
 
 🔮 Future Enhancements
