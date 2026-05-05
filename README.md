@@ -60,7 +60,11 @@ Exact number is required to reach home.
 📸 Screenshots
 
 <img width="1905" height="990" alt="image" src="https://github.com/user-attachments/assets/dc23dfb9-d49a-43b9-9978-192b575e2ac7" />
+
+
 <img width="1699" height="980" alt="image" src="https://github.com/user-attachments/assets/1abf66e2-f3e0-455b-89f3-517af2a73705" />
+
+
 <img width="1222" height="799" alt="image" src="https://github.com/user-attachments/assets/dcad1995-68ff-487b-bc58-8a63aa9fe464" />
 
 
